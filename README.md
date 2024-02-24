@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amx791" target="blank"><img src="https://img.shields.io/twitter/follow/amx791?logo=twitter&style=for-the-badge" alt="amx791" /></a> </p>
 
-- 🌱 I’m currently learning JavaScript**
+- 🌱 I’m currently learning JavaScript
 
 - ⚡ Fun fact **I can talk backwards 😅**
 
